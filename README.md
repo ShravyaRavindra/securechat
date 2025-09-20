@@ -1,5 +1,4 @@
 <h1 align="center" style="color: #4A90E2;">Secure Chat</h1>
-## <span style="color:#E94E77;">Overview</span>
 Secure Chat is a hybrid cryptographic chat application built in Python. It demonstrates secure end-to-end encrypted communication** between two users using combined cryptographic techniques like:
 
 - <span style="color:#4A90E2;">Diffie-Hellman key exchange</span> for secure shared AES key agreement
@@ -23,9 +22,9 @@ The project includes an **interactive Tkinter GUI** supporting encrypted messagi
 
 ## <span style="color:#E94E77;">Installation</span>
 <h1 align="center" style="color: #4A90E2;">Secure Chat</h1>
-1. **Clone this repository:**  git clone <repository-url>
-2. **Navigate into the project directory:** cd HybridCryptoSecureCommSystem
-3.  **Install dependencies:** pip install pycryptodome pyperclip pillow
+1. **Clone this repository:**  git clone <repository-url>    
+2. **Navigate into the project directory:** cd HybridCryptoSecureCommSystem       
+3.  **Install dependencies:** pip install pycryptodome pyperclip pillow          
 
 ## <span style="color:#E94E77;">Usage</span>
 
