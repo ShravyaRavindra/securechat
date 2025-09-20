@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #4A90E2;">Secure Chat</h1>
 ## <span style="color:#E94E77;">Overview</span>
-**Secure Chat** is a hybrid cryptographic chat application built in Python. It demonstrates **secure end-to-end encrypted communication** between two users using combined cryptographic techniques like:
+Secure Chat is a hybrid cryptographic chat application built in Python. It demonstrates secure end-to-end encrypted communication** between two users using combined cryptographic techniques like:
 
 - <span style="color:#4A90E2;">Diffie-Hellman key exchange</span> for secure shared AES key agreement
 - <span style="color:#4A90E2;">RSA asymmetric encryption</span> and digital signatures for authentication
